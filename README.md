@@ -2,4 +2,4 @@
 
 A better formatted Alipay ToS with version comparison
 
-[A link to compare Jan 2018 and May 2018 version](0a20ad9fb0255e4b85059e65743a0dac9875ea81)
+[A link to compare Jan 2018 and May 2018 version](https://github.com/bitinn/alipay-tos-comparison/commit/14567a4e6767ae535836f73932825a012c9603b0)
